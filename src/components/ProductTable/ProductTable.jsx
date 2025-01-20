@@ -4,7 +4,7 @@ import './ProductTable.css'
 function ProductTable({products}) {
   return (
 
-    <table className="table">
+    <table className="table table table-striped " >
         <thead >
         <tr>
           <th>Name</th>
